@@ -1,0 +1,27 @@
+body{
+    background: violet;
+    background: url(https://cdn.mos.cms.futurecdn.net/xaycNDmeyxpHDrPqU6LmaD.jpg);
+}
+.login{
+    height: 350px;
+    width: 350px;
+    background-color: burlywood;
+    margin-left: 650px;
+    margin-top: 300px;
+}
+h1{
+margin-left: 125px;
+}
+input{
+    opacity: 0.5;
+    border-radius: 10px;
+    padding: 10px;
+    width: 300px;
+    margin: 5px;
+}
+button{
+    background: white;
+    border-radius: 50px;
+    height: 75px;
+    width: 350px;
+}
